@@ -1,0 +1,27 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "mock-interview-marketplace",
+  "description": "Resume-based mock interview plugin for Claude Code",
+  "owner": {
+    "name": "JungJongSeok"
+  },
+  "plugins": [
+    {
+      "name": "mock-interview",
+      "description": "Resume-based mock interview with interviewer/interviewee modes, tech+behavioral questions, why follow-ups, and immediate feedback",
+      "category": "productivity",
+      "source": ".",
+      "homepage": "https://github.com/JungJongSeok/mock-interview",
+      "author": {
+        "name": "JungJongSeok"
+      },
+      "version": "1.0.0",
+      "tags": [
+        "mock-interview",
+        "resume",
+        "interview-practice",
+        "career"
+      ]
+    }
+  ]
+}
