@@ -1,0 +1,19 @@
+{
+  "name": "mock-interview",
+  "version": "1.0.0",
+  "description": "Resume-based mock interview plugin for Claude Code",
+  "author": "JungJongSeok",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/JungJongSeok/mock-interview",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JungJongSeok/mock-interview.git"
+  },
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "mock-interview",
+    "resume",
+    "interview-practice"
+  ]
+}

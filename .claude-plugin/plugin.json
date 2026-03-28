@@ -1,0 +1,18 @@
+{
+  "name": "mock-interview",
+  "description": "Resume-based mock interview with interviewer/interviewee modes, tech+behavioral questions, why follow-ups, and immediate feedback",
+  "version": "1.0.0",
+  "author": {
+    "name": "JungJongSeok"
+  },
+  "homepage": "https://github.com/JungJongSeok/mock-interview",
+  "repository": "https://github.com/JungJongSeok/mock-interview",
+  "license": "Apache-2.0",
+  "keywords": [
+    "mock-interview",
+    "resume",
+    "interview-practice",
+    "career"
+  ],
+  "skills": "./skills/"
+}
