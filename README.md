@@ -7,6 +7,10 @@ Resume-based mock interview plugin for Claude Code.
 ## Installation / 설치
 
 ```bash
+# 1. Add marketplace / 마켓플레이스 등록
+/plugin marketplace add JungJongSeok/mock-interview
+
+# 2. Install plugin / 플러그인 설치
 /install mock-interview
 ```
 
